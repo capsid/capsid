@@ -1,21 +1,33 @@
-Xeno
-=======
+:mod:`xeno` -- Xeno |release| documentation
+===========================================
 
-Xeno is a small, fast, down-to-earth, open source Python application
-development framework.
+.. module:: xeno
+        :synopsis: bioinformatics pipeline
 
-Support and Documentation
--------------------------
+.. moduleauthor:: Shane Wilson
 
-See the `Xeno Pipeline website <http://oicr.on.ca/>`_ to view
-documentation, report bugs, and obtain support.
+Overview
+--------
 
-License
+**Xeno** is the python cli for the pipeline of the Xeno project.
+
+:doc:`installation`
+    Instructions on how to get the distribution
+:doc:`tutorial`
+    Quick setup
+:doc:`examples`
+    Examples of how to use the cli
+
+Issues
+------
+
+jira?
+
+Contributing
+------------
+
+github link
+
+Changes
 -------
-
-Xeno offered under some license
-
-Authors
--------
-
-Me.
+See the :doc:`changelog` for a full list of changes to Xeno.

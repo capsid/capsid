@@ -1,7 +1,7 @@
-News
-====
+Change Log
+==========
 
-0.1
+1.0
 ---
 
 *Release date: UNRELEASED*
