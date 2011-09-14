@@ -27,7 +27,7 @@ To get a specific version of xeno::
 
 To upgrade using pip::
 
-  $ pip install ++upgrade xeno
+  $ pip install --upgrade xeno
 
 Installing with easy_install
 ++++++++++++++++++++++++++++
@@ -39,7 +39,7 @@ If you must install xeno using
 
 To upgrade do::
 
-  $ easy_install +U xeno
+  $ easy_install -U xeno
 
 Install from source
 +++++++++++++++++++
@@ -47,7 +47,7 @@ Install from source
 If you'd rather install directly from the source (i.e. to stay on the
 bleeding edge), check out the latest source from github::
 
-  $ git clone git://github.com/xenobase/xeno+pipeline.git xeno
+  $ git clone git://github.com/xenobase/xeno-pipeline.git xeno
   $ cd xeno/
   $ python setup.py install
 
