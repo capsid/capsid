@@ -1,0 +1,6 @@
+[submodule "xenobase-pipeline"]
+	path = xenobase-pipeline
+	url = git@github.com:xenobase/xenobase-pipeline.git
+[submodule "xenobase-webapp"]
+	path = xenobase-webapp
+	url = git@github.com:xenobase/xenobase-webapp.git
