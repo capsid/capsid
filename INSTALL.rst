@@ -7,6 +7,23 @@ xeno-pipeline
 **Xeno** is in the `Python Package Index
 <http://pypi.python.org/pypi/xeno/>`_.
 
+Dependencies
+++++++++++++
+
+**Xeno** requires the following packages to be installed:
+
+* PyMongo_
+* BioPython_
+* pysam_
+* bx-python_
+
+Installation of these packages is not covered here. 
+
+.. _PyMongo: http://api.mongodb.org/python/current/
+.. _BioPython: http://biopython.org/wiki/Main_Page
+.. _pysam: http://code.google.com/p/pysam/
+.. _bx-python: https://bitbucket.org/james_taylor/bx-python/wiki/Home
+
 Microsoft Windows
 +++++++++++++++++
 
