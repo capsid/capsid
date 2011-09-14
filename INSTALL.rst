@@ -71,4 +71,25 @@ bleeding edge), check out the latest source from github::
 xeno-webapp
 -----------
 
+Dependencies
+++++++++++++
 
+**Xeno** is a web applications written in Grails_ and Groovy_ and requires a Java web server to run. Grails is only required if you wish to compile from source. 
+
+.. _Grails: http://grails.org/
+.. _Groovy: http://groovy.codehaus.org/
+
+Installing
+++++++++++
+
+**Xeno** is released as a war file and needs to be moved to the webapps folder of your web server. For further instruction on how to properly use war files check the documentation of your web server.
+
+Install from source
++++++++++++++++++++
+
+If you'd rather install directly from the source (i.e. to stay on the
+bleeding edge), check out the latest source from github::
+
+  $ git clone git://github.com/xenobase/xeno-webapp.git xeno
+  $ cd xeno/
+  $ grails war
