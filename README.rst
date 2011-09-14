@@ -2,7 +2,7 @@ Xeno
 ====
 Overview
 --------
-**Xeno** is the python cli for the pipeline of the Xeno project.
+**Xeno** is something.
 
 License
 -------
@@ -10,24 +10,22 @@ License
 
 Installation
 ------------
-Instructions on how to get the distribution
+See INSTALL.rst for instructions on how to get the distribution
 
-Tutorial
---------
-Quick setup
-
-Examples
---------
-Examples of how to use the cli
-
-Issues
-------
-jira?
+Tutorial and Examples
+---------------------
+For a tutorial and examples of how to use **Xeno** see our site `here<http://xenobase.github.com>`.
 
 Contributing
 ------------
-github link
+Our code is available on github_
+
+Issues
+------
+Open issues through github_
+
+.. _github: https://github.com/xenobase/xeno
 
 Changes
 -------
-See CHANGES for a full list of changes to Xeno.
+See CHANGES.rst for a full list of changes to **Xeno**.
