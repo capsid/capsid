@@ -1,5 +1,5 @@
-Installion
-==========
+Installation
+============
 .. highlight:: bash
 
 xeno-pipeline
