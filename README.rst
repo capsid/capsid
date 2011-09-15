@@ -1,25 +1,22 @@
 Xeno
 ====
-
 **Xeno** is a bioinformatics pipeline.
 
-Installation
-------------
-See INSTALL for instructions on how to get the distribution
+  **Project Leader** Vincent Ferretti
 
-Tutorial and Examples
+  **Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
+
+Getting Started
 ---------------------
-For a tutorial and examples of how to use **Xeno** see our `site <http://xenobase.github.com>`_.
+You will need a MongoDB database, a Python 2.6+ installation and a web server that can run Java Web Applications,
+e.g., Apache Tomcat, Jetty. For more detail, read the instructions at:
 
-Contributing and Issues
------------------------
-Our code is available on `github <https://github.com/xenobase/xeno>`_
+  http://wiki.github.com/xenobase/xenobase/installation
 
-Change Log
-----------
-See CHANGES for a full list of changes to **Xeno**.
+For tutorials and examples see our `site <http://xenobase.github.com>`_.
 
-License
--------
-**Xeno** is released under the GPLv3 License. See LICENSE for more details.
+License and Copyright
+---------------------
+Licensed under the GNU General Public License, Version 3.0. See LICENSE for more details.
 
+Copyright 2011 The Ontario Institue for Cancer Research.
