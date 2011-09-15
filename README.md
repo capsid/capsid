@@ -1,19 +1,18 @@
-Xeno
-====
-**Xeno** is a bioinformatics pipeline.
+XenoBase
+========
+**XenoBase** is a bioinformatics pipeline.
 
-  **Project Leader** Vincent Ferretti
-
-  **Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
+**Project Leader** Vincent Ferretti  
+**Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
 
 Getting Started
----------------------
+---------------
 You will need a MongoDB database, a Python 2.6+ installation and a web server that can run Java Web Applications,
 e.g., Apache Tomcat, Jetty. For more detail, read the instructions at:
 
   http://wiki.github.com/xenobase/xenobase/installation
 
-For tutorials and examples see our `site <http://xenobase.github.com>`_.
+For tutorials and examples see our [site](http://xenobase.github.com>).
 
 License and Copyright
 ---------------------
