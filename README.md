@@ -7,8 +7,7 @@ XenoBase
 
 Getting Started
 ---------------
-You will need a MongoDB database, a Python 2.6+ installation and a web server that can run Java Web Applications,
-e.g., Apache Tomcat, Jetty. For more detail, read the instructions at:
+You will need a MongoDB database, a Python 2.6+ installation and Apache Tomcat 6+. For more detail, read the instructions at:
 
   http://wiki.github.com/xenobase/xenobase/installation
 
