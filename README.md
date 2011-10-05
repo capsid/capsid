@@ -9,7 +9,7 @@ Getting Started
 ---------------
 You will need a MongoDB database, a Python 2.6+ installation and Apache Tomcat 6+. For more details, read the wiki:
 
-  http://wiki.github.com/capsid/capsid/wiki/home
+  https://github.com/capsid/capsid/wiki/Installation
 
 License and Copyright
 ---------------------
