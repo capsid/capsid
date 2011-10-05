@@ -1,17 +1,15 @@
-XenoBase
+CaPSID
 ========
-**XenoBase** is a bioinformatics pipeline.
+**CaPSID** is a bioinformatics pipeline.
 
 **Project Leader** Vincent Ferretti  
 **Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
 
 Getting Started
 ---------------
-You will need a MongoDB database, a Python 2.6+ installation and Apache Tomcat 6+. For more details, read the instructions at:
+You will need a MongoDB database, a Python 2.6+ installation and Apache Tomcat 6+. For more details, read the wiki:
 
-  http://wiki.github.com/xenobase/xenobase/installation
-
-For tutorials and examples see our [site](http://xenobase.github.com>).
+  http://wiki.github.com/capsid/capsid/wiki
 
 License and Copyright
 ---------------------
