@@ -1,6 +1,6 @@
-CaPSID
+CAPSID
 ========
-**CaPSID** is a bioinformatics pipeline.
+**CAPSID** is a bioinformatics pipeline.
 
 **Project Leader** Vincent Ferretti  
 **Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
