@@ -1,6 +1,6 @@
-[submodule "xenobase-pipeline"]
-	path = xenobase-pipeline
-	url = git@github.com:xenobase/xenobase-pipeline.git
-[submodule "xenobase-webapp"]
-	path = xenobase-webapp
-	url = git@github.com:xenobase/xenobase-webapp.git
+[submodule "capsid-pipeline"]
+	path = capsid-pipeline
+	url = git@github.com:capsid/capsid-pipeline.git
+[submodule "capsid-webapp"]
+	path = capsid-webapp
+	url = git@github.com:capsid/capsid-webapp.git
