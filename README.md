@@ -15,4 +15,4 @@ License and Copyright
 ---------------------
 Licensed under the GNU General Public License, Version 3.0. See LICENSE for more details.
 
-Copyright 2011 The Ontario Institue for Cancer Research.
+Copyright 2011 The Ontario Institute for Cancer Research.
