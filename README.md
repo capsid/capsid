@@ -1,6 +1,6 @@
 CaPSID
 ========
-**CaPSID** is a bioinformatics pipeline.
+**CaPSID** (Computational Pathogen Sequence IDentification) is a comprehensive open source platform which integrates a high-performance computational pipeline for pathogen sequence identification and characterization in human genomes and transcriptomes together with a scalable results database and a user-friendly web-based software application for managing, querying and visualizing results.
 
 **Project Leader** Vincent Ferretti  
 **Developement Team** Ivan Borozan, Philippe Laflamme, Shane Wilson
