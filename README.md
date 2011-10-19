@@ -7,7 +7,7 @@ CaPSID
 
 Getting Started
 ---------------
-You will need a MongoDB database, a Python 2.6+ installation and Apache Tomcat 6+. For more details, read the wiki:
+You will need a MongoDB database, a Python 2.6+ installation and a Java Web Server. For more details, read the wiki:
 
   https://github.com/capsid/capsid/wiki/
 
