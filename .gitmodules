@@ -1,0 +1,6 @@
+[submodule "capsid-pipeline"]
+	path = capsid-pipeline
+	url = git@github.com:capsid/capsid-pipeline.git
+[submodule "capsid-webapp"]
+	path = capsid-webapp
+	url = git@github.com:capsid/capsid-webapp.git
